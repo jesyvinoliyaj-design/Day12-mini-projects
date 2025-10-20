@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,PriceINR,CostINR,Brand
+P1001,Men's Cotton T-Shirt,General,16338,13882,BrandB
+P1002,Women's Kurta,General,5580,3528,BrandA
+P1003,Running Shoes,General,10746,6763,LocalMart
+P1004,"Smartphone 6.5""",General,13735,9545,PrimeGoods
+P1005,Wireless Earbuds,General,44929,26432,PrimeGoods
+P1006,Bluetooth Speaker,General,45274,37455,BrandA
+P1007,"Laptop 14""",General,34499,24071,BrandB
+P1008,Backpack 25L,General,42606,24203,LocalMart
+P1009,Fitness Band,General,21672,17662,LocalMart
+P1010,"LED Smart TV 43""",General,11741,7250,BrandB
+P1011,Kitchen Mixer Grinder,General,28645,20355,PrimeGoods
+P1012,Air Fryer 3.5L,General,40718,29666,LocalMart
+P1013,Ceramic Dinner Set,General,13748,10592,BrandB
+P1014,Makeup Kit,General,44484,31222,PrimeGoods
+P1015,Wrist Watch,General,2573,1624,BrandA
+P1016,Sunglasses UV,General,36778,21301,PrimeGoods
+P1017,Mobile Cover,General,40581,29861,BrandB
+P1018,Power Bank 10000mAh,General,47180,33870,BrandA
+P1019,Home Heater,General,58187,34254,BrandA
+P1020,Vacuum Cleaner,General,15965,12071,BrandA
+P1021,Office Chair,General,40438,24596,PrimeGoods
+P1022,Desk Lamp,General,42456,25990,PrimeGoods
+P1023,Bluetooth Keyboard,General,2007,1289,PrimeGoods
+P1024,Mouse Wireless,General,22771,17061,LocalMart
+P1025,Car Mobile Holder,General,18901,14390,BrandA
+P1026,Water Bottle Stainless,General,19302,15878,PrimeGoods
+P1027,Yoga Mat,General,35779,21436,PrimeGoods
+P1028,Gaming Headset,General,21857,13866,PrimeGoods
+P1029,USB-C Cable,General,27263,20575,PrimeGoods
+P1030,Smart Light Bulb,General,34154,19641,LocalMart
